@@ -1,0 +1,17 @@
+{
+  "name": "clase6",
+  "version": "1.0.0",
+  "description": "miclase6",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js",
+    "watch": "node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
